@@ -1,0 +1,15 @@
+
+2 pointer pattern :
+
+	let say building has 4 floor so 
+	
+	when you think about two pointer:
+	
+	-if quations are Array or Linkedlist then you can think about two pointer
+	-if ther data is sorted or it will easy to solver when sorted then two pointer pattern will work. 
+	-if the quations has merger or remove dupblicate or rearrange it then you can think about tow pointer.
+  	-if the quations has detect cycle or you could know that in this quation detect the cycle will help then you can think about two pointer patter to solve that quation.
+  	-if you found pair,triplates, quadruple then you can think about two pointer.
+  	
+  	 
+
